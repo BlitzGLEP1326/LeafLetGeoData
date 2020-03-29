@@ -1,2 +1,2 @@
-# LeafLetGeoData
-Сайт сбора и обработки геоданных
+Пример можно посмотреть по ссылке
+http://scriptkids.ru/myLeaflet/
